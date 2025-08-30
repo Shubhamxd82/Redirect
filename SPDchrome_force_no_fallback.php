@@ -357,11 +357,6 @@ This link is optimized for Chrome browser. If the redirect doesn't work, please 
 Open in Chrome
 </button>
 
-<!-- Chrome Only Message -->
-<div class="chrome-only-message">
-<p>🔒 <strong>Chrome Browser Required:</strong> This content can only be accessed through Chrome browser for security and compatibility reasons.</p>
-</div>
-
 <!-- Retry Message (shown after failed attempts) -->
 <div class="retry-message" id="retryMessage">
 <p><strong>✋ Chrome not opening?</strong><br>
